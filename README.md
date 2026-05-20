@@ -168,17 +168,6 @@ GraphQL endpoint:
 
 ---
 
-# Screenshots
-
-Add screenshots of:
-- Login page
-- Dashboard
-- Admin panel
-- GraphQL queries
-- User management
-
----
-
 # Author
 
 GitHub: https://github.com/Bokka-kartik
