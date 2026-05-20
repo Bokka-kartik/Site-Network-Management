@@ -7,8 +7,8 @@ The project focuses on structured data handling, authentication, role-based acce
 
 ## Live Demo
 
-Frontend: `Add your Render frontend URL here`  
-Backend/API: `Add your Render backend URL here`
+Frontend: `https://site-network-management-1.onrender.com`  
+Backend/API: `https://site-network-management.onrender.com`
 
 ---
 
@@ -17,8 +17,8 @@ Backend/API: `Add your Render backend URL here`
 ### Viewer Account
 
 ```txt
-Email: demo@site.com
-Password: demo123
+Email: viewer_user
+Password: viewer1234
 ```
 
 > Note: Demo access is limited to viewer-level permissions.  
