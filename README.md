@@ -7,8 +7,10 @@ The project focuses on structured data handling, authentication, role-based acce
 
 ## Live Demo
 
-Frontend: `https://site-network-management-1.onrender.com`  
-Backend/API: `https://site-network-management.onrender.com`
+- Frontend: [Live Website](https://site-network-management-1.onrender.com)
+- Backend/API: [API Endpoint](https://site-network-management.onrender.com)
+
+
 
 ---
 
