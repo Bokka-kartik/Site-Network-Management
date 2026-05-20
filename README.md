@@ -1,0 +1,182 @@
+# Site Network Management
+
+A full-stack web application built for managing and monitoring site/network-related information through a centralized dashboard.  
+The project focuses on structured data handling, authentication, role-based access, and an interactive frontend interface.
+
+---
+
+## Live Demo
+
+Frontend: `Add your Render frontend URL here`  
+Backend/API: `Add your Render backend URL here`
+
+---
+
+## Demo Credentials
+
+### Viewer Account
+
+```txt
+Email: demo@site.com
+Password: demo123
+```
+
+> Note: Demo access is limited to viewer-level permissions.  
+> Administrative features are restricted.
+
+---
+
+# Features
+
+- User authentication system
+- Role-based access control
+- GraphQL API integration
+- Interactive dashboard UI
+- Network/site data management
+- Responsive frontend design
+- Backend API handling with Express
+- SQLite database integration
+
+---
+
+# Tech Stack
+
+## Frontend
+- React
+- Vite
+- Apollo Client
+- React Router
+- Tailwind CSS
+
+## Backend
+- Node.js
+- Express.js
+- GraphQL
+- Apollo Server
+- SQLite
+
+---
+
+# Project Structure
+
+```txt
+Site-Network-Management/
+│
+├── Study_Frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── Study_Backend/
+│   ├── entrypoint.js
+│   ├── schema/
+│   ├── database/
+│   └── package.json
+│
+└── README.md
+```
+
+---
+
+# Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/Bokka-kartik/Site-Network-Management.git
+```
+
+---
+
+# Backend Setup
+
+```bash
+cd Study_Backend
+npm install
+npm start
+```
+
+Backend runs on:
+
+```txt
+http://localhost:4000
+```
+
+---
+
+# Frontend Setup
+
+```bash
+cd Study_Frontend
+npm install
+npm run dev
+```
+
+Frontend runs on:
+
+```txt
+http://localhost:5173
+```
+
+---
+
+# Environment Variables
+
+Frontend `.env`
+
+```env
+VITE_API_URL=http://localhost:4000/graphql
+```
+
+Backend `.env`
+
+```env
+JWT_SECRET=your_secret_key
+```
+
+---
+
+# Deployment
+
+The project is deployed using:
+
+- Frontend → Render Static Site
+- Backend → Render Web Service
+
+---
+
+# API
+
+GraphQL endpoint:
+
+```txt
+/graphql
+```
+
+---
+
+# Future Improvements
+
+- Real-time monitoring support
+- Better analytics dashboard
+- Notification system
+- Persistent cloud database integration
+- Docker support
+- CI/CD pipeline setup
+
+---
+
+# Screenshots
+
+Add screenshots of:
+- Login page
+- Dashboard
+- Admin panel
+- GraphQL queries
+- User management
+
+---
+
+# Author
+
+GitHub: https://github.com/Bokka-kartik
