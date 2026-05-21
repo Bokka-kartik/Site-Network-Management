@@ -133,7 +133,7 @@ VITE_API_URL=http://localhost:4000/graphql
 Backend `.env`
 
 ```env
-JWT_SECRET=your_secret_key
+JWT_SECRET=
 ```
 
 ---
