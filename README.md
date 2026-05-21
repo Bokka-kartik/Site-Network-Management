@@ -80,16 +80,6 @@ Site-Network-Management/
 
 ---
 
-# Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/Bokka-kartik/Site-Network-Management.git
-```
-
----
-
 # Backend Setup
 
 ```bash
