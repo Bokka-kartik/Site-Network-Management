@@ -1,5 +1,5 @@
 # Site Network Management
-
+hi
 A full-stack web application built for managing and monitoring site/network-related information through a centralized dashboard.  
 The project focuses on structured data handling, authentication, role-based access, and an interactive frontend interface.
 
