@@ -69,7 +69,7 @@ const ScrollColumn = ({ items, selected, onChange }) => {
         onWheel={onWheel}
       >
         <div style={{ height: CENTER * ITEM_H }} />
-        {items.map((item, i) => (
+        {items.map((item) => (
           <div
             key={item}
             className={`drum-item ${item === selected ? "drum-item-active" : ""}`}
